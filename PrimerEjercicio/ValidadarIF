@@ -1,6 +1,0 @@
-edad = int(input("Por Favor ingrasar su edad: "))
-
-if edad >= 18:
-    print("Si, Eres mayor de edad")
-else:
-    print("Eres menor de edad")
