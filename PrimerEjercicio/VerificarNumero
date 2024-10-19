@@ -1,0 +1,21 @@
+def Verificar_numero():
+    Numero=int(input("Ingrese un numero: "))
+
+    if Numero >= 0:
+        print("numero es mayor")
+    else:
+        print("numero menor")
+
+Verificar_numero()
+
+            
+def Verificar_numero():
+    Numero=int(input("Ingrese un numero: "))
+
+    if Numero >= 0:
+        print("numero es mayor")
+    else:
+        print("numero menor")
+
+Verificar_numero()
+
