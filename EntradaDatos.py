@@ -1,7 +1,7 @@
 # Operaciones de Entrada/Salida en Consola
 
 # Entrada de datos
-nombre = input("¿Cuál es tu nombre? ")
+nombre = input("¿Por favor digitar el nombre? ")
 edad = int(input("¿Cuántos años tienes? "))
 altura = float(input("¿Cuál es tu altura en metros? "))
 
