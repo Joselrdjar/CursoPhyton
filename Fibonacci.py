@@ -5,8 +5,8 @@ def serie(limite):
         yield a
         a = b
         b = a+b
-        
-    for numeros in serie(10):
+ 
+for numeros in serie(10):
         print (numeros)
     
-    
+
